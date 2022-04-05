@@ -16,7 +16,7 @@ output:
 ```{r, setup, echo=FALSE, include=FALSE}
   gc()
   rm(list = ls())
-  knitr::opts_knit$set(root.dir = '/Users/miguelportela/Documents/GitHub/R_Training/EDA/')
+  knitr::opts_knit$set(root.dir = '/Users/Marcos Andrade/Documents/GitHub/R_Training/EDA/')
   library(tidyverse)
   library(haven)
   library(readxl)
